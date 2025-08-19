@@ -90,10 +90,6 @@ article > picture > img{
     width: 100%;
 }
 
-article > picture > img#primeira{
-    width: 990px;
-    padding: 5px;
-}
 
 article > img.pequena{
     max-width: 350px;
